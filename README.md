@@ -6,7 +6,7 @@
   </a>
 </div>
 <div align="center">
-  <em>100+ Free Resources On Generative AI for Data Scientists</em>
+  <em>100+ Free Resources On Generative AI for Data Scientists AI</em>
 </div>
 
 # Awesome Generative AI Data Scientist [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
